@@ -1,2 +1,1 @@
 test.med
-another test
